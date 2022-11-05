@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Dockerfile-jetson pyproject.toml OpenCV fix (#7214)
