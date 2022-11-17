@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
