@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Replace onnx2tf usage from CLI to Python (#8429)
