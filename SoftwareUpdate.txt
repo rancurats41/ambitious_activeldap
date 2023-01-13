@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Use pathlib in DOTA ops (#7552)
