@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Update Docs robots.txt (#7728)
