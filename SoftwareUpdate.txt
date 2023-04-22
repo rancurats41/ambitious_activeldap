@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
