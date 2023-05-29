@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+Fix TypeError in check_cfg() (#9245)
