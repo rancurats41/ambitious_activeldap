@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Update H1 in Explorer API docs (#7813)
