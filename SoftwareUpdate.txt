@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Update OpenVINO INT8 export (#7515)
