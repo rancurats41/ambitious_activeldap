@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
