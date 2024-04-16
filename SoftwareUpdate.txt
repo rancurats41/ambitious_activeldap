@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Fix PIL show() and save() (#8202)
