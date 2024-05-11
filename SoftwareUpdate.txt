@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
