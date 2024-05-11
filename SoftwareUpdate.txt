@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+Expand Model method type hinting (#8279)
