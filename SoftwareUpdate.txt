@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+ultralytics 8.1.2 scope HUB-SDK imports (#7596)
