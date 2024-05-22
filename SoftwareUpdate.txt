@@ -1,1 +1,1 @@
-add yolov10
+Fix ONNX GPU inference bug (#6840)
